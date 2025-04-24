@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Brickly (by Daniil Sanders)**
+**Stacklet (by Daniil Sanders)**
 
 This game does not collect, store, or share any personal data.
 
