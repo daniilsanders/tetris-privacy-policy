@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Tetris (by Daniil Sanders)**
+**Brickly (by Daniil Sanders)**
 
 This game does not collect, store, or share any personal data.
 
@@ -16,4 +16,4 @@ The game is fully self-contained and runs locally on your device. Your gameplay 
 If you have any questions or concerns, feel free to reach out:  
 📧 [askwooh@gmail.com]
 
-_Last updated: April 23, 2025_
+_Last updated: April 24, 2025_
