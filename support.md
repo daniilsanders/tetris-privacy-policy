@@ -1,6 +1,6 @@
 # Support
 
-Thanks for playing **Tetris** by Daniil Sanders!
+Thanks for playing **Brickly** by Daniil Sanders!
 
 This is a personal project made with love and minimalism.
 
